@@ -6,13 +6,13 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：32
 * 手 机：18550859910 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：jxy001a@gmail.com
-* 专 业：计算机科学与技术专业 &emsp;&emsp;&emsp;岗 位：前端研发工程师
+* 专 业：计算机科学与技术专业 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：前端研发工程师
 
 ## 工作及教育经历
 
 * 阿里本地生活（饿了么）&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;2020.3~至今&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; DIC数据智能中心-数据工程与算法组-工程和质量保障组-数据可视化技术
-* 苏州环境云科技信息有限公司&emsp;&emsp;&emsp;&emsp;&emsp;2017.12~2020.3&emsp;&emsp;&emsp;&emsp;餐厨事业部-技术工程组-前端工程师
-* 兰州理工大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
+* 苏州环境云科技信息有限公司&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;2017.12~2020.3&emsp;&emsp;&emsp;&emsp;餐厨事业部-技术工程组-前端工程师
+* 兰州理工大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
 
 ## 专业技能
 
